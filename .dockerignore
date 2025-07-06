@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.git
+.gitignore
+escola.db
+escola.db-journal
+
